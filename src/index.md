@@ -9,3 +9,4 @@ Hello Jamstack family!
 
 - [{{ post.data.title}}]({{ post.url }})
   {% endfor %}
+  ![eleventy logo image](/images/eleventy.png "eleventy title text")
